@@ -26,10 +26,28 @@ section .jumbotron h2 {
     background-image: 
     url('http://www.formosatravel.net/images/stories/taiwan/article_images/the-beauty-of-a-simple-and-natural-life/ZhuShan-Tea-Farm.jpg');
     background-size: cover;
-    align-items: center;
     display: flex;
     height: 500px;
-    margin-top: 100px;
-    
-       
+    margin-top: 50px;
+           
+}
+
+section .row ul li a{
+    color: white;
+    border: solid;
+    border-color: springgreen;
+    padding: 5px;
+    border-width: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    display: inline;
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+section .row {  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-style: bold;
 }
