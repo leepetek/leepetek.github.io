@@ -29,5 +29,6 @@ header h2 {
     background-size: cover;
     align-items: center;
     display: flex;
+    height: 500px;
        
 }
