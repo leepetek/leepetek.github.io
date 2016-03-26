@@ -17,8 +17,9 @@ section .jumbotron ul li a {
 
 section .jumbotron h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: navy;
-    
+    color: white;
+    font-style: bold;
+       
 }
 
 .jumbotron {
