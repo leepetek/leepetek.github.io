@@ -1,23 +1,21 @@
-header ul {
+section .jumbotron ul {
     display: flex;     
 }
 
-header ul li {
-    margin-right: 20px;
-    margin-left: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    
-}
-
-header ul li a {
+section .jumbotron ul li a {
     border: solid;
     border-color: springgreen;
     padding: 5px;
     border-width: 2px;
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    display: inline;
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
-header h2 {
+section .jumbotron h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: navy;
     
@@ -30,5 +28,7 @@ header h2 {
     align-items: center;
     display: flex;
     height: 500px;
+    margin-top: 100px;
+    
        
 }
