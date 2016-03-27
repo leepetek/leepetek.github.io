@@ -15,7 +15,7 @@ section .jumbotron h2 {
            
 }
 
-section .jumbotron .row ul li a{
+.row ul li a{
     color: white;
     border: solid;
     border-color: springgreen;
@@ -29,7 +29,7 @@ section .jumbotron .row ul li a{
     margin-left: 10px;
 }
 
-section .jumbotron .row {  
+.row {  
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
     font-style: bold;
