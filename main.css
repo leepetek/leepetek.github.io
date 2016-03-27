@@ -2,6 +2,7 @@ section.jumbotron h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
     font-style: bold;
+    display: flex;
        
 }
 
@@ -15,15 +16,14 @@ section.jumbotron h2 {
            
 }
 
-section.jumbotron div.row ul li {
+section.jumbotron div.row ul li a {
     color: white;
     border: solid;
     border-color: springgreen;
     padding: 5px;
-    border-width: 2px;
+    border-width: 1px;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
-    display: inline;
     display: flex;
     margin-right: 10px;
     margin-left: 10px;
