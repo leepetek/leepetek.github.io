@@ -15,7 +15,7 @@ section.jumbotron div.container {
     display: flex;
 }
 
-section.jumbotron div.row ul {
+section.jumbotron div.container nav.row ul {
     display: flex;
     margin-right: 10px;
     margin-left: 10px;
@@ -23,14 +23,15 @@ section.jumbotron div.row ul {
     list-style-type: none;
 }
 
-section.jumbotron div.row ul li {
+section.jumbotron div.container nav.row ul li {
+    display: inline;
     display: flex;
     margin-right: 10px;
     margin-left: 10px;
     text-align: center;
 }
 
-section.jumbotron div.row ul li a {
+section.jumbotron div.container nav.row ul li a {
     color: white;
     border: solid;
     padding: 5px;
