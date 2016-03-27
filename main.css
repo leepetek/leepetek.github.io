@@ -1,11 +1,3 @@
-section.jumbotron h2 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white;
-    font-style: bold;
-    display: flex;
-       
-}
-
 .jumbotron {
     background-image: 
     url('http://www.formosatravel.net/images/stories/taiwan/article_images/the-beauty-of-a-simple-and-natural-life/ZhuShan-Tea-Farm.jpg');
@@ -14,6 +6,13 @@ section.jumbotron h2 {
     height: 500px;
     margin-top: 50px;
            
+}
+
+section.jumbotron div.container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-style: bold;
+    display: flex;
 }
 
 section.jumbotron div.row ul {
