@@ -16,6 +16,21 @@ section.jumbotron h2 {
            
 }
 
+section.jumbotron div.row ul {
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
+    list-style-type: none;
+}
+
+section.jumbotron div.row ul li {
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
 section.jumbotron div.row ul li a {
     color: white;
     border: solid;
@@ -27,6 +42,7 @@ section.jumbotron div.row ul li a {
     display: flex;
     margin-right: 10px;
     margin-left: 10px;
+    text-align: center;
 }
 
 .row {  
