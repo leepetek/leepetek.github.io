@@ -1,4 +1,4 @@
-section .jumbotron h2 {
+section.jumbotron h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
     font-style: bold;
@@ -15,7 +15,7 @@ section .jumbotron h2 {
            
 }
 
-.row ul li a{
+section.jumbotron div.row ul li {
     color: white;
     border: solid;
     border-color: springgreen;
